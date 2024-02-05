@@ -24,6 +24,7 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
 `sudo chown $USER ~/Library/Caches/com.microsoft.VSCode.ShipIt`  
 + GitHub setup
   + ~~Create GitHub account: `jakebayon12`~~
+  + **Enable two-factor authentication!**
   + ~~Create repository for COMP299: `Gratian`~~   
   `git clone git@github.com:jakebayon12/Gratian.git` or  
   `git clone https://github.com/jakebayon12/Gratian.git`  
