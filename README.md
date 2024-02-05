@@ -1,5 +1,11 @@
 ## COMP299
 Spring 2024 Independent Study with Jake Bayon
+
+---
+
+Default branch is `main`!
+
+---
 ### Week 2 (5 February 2024)
 + Confirm that course code is COMP299  
 `COMP 299` INDEPENDENT STUDY  
@@ -21,9 +27,10 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
   + ~~Create repository for COMP299: `Gratian`~~   
   `git clone git@github.com:jakebayon12/Gratian.git` or  
   `git clone https://github.com/jakebayon12/Gratian.git`  
-  + ~~Share repository with `decretist`~~ (Paul's GitHub username. In the Middle Ages, a decretist was someone who studied Gratian's *Decretum*.)
+  + ~~Share repository with `decretist`~~ (Paul's GitHub username. In the Middle Ages, a *decretist* was someone who studied Gratian's *Decretum*.)
 + [The Medieval University & the Question of Education: Gratian's Decretum & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
 + What do you think of when you think of the Middle Ages?
++ Introductory activity: What do you know, or think you know, about the Middle Ages? Any source, e.g., other courses, fiction or non-fiction books, TV ("Game of Thrones"), movies ("Secret of Kells”), or video games is OK!
   - feudalism
   - castles
   - dragons (because Paul gave that as an example)
