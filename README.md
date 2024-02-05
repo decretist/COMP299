@@ -15,7 +15,7 @@ Individual study including library or laboratory research or program writing. A 
 ### Week 1 (29 January 2024)
 + Remember to bring HDMI adapter to every class meeting!
 + Install [Visual Studio Code](https://code.visualstudio.com/) or upgrade to the current version (1.86.0)
-  - Make sure that VSCode is ***not*** installed in the Downloads folder!
+  - **Make sure that VSCode is *not* installed in the Downloads folder!**
   - In order for `Check for Updates...` to work, you have to open Terminal and enter either  
 `xattr -dr com.apple.quarantine /Applications/Visual\ Studio\ Code.app` or  
 `xattr -dr com.apple.quarantine ~/Applications/Visual\ Studio\ Code.app`  
