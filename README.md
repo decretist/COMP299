@@ -1,4 +1,4 @@
-## COMP299
+## COMP499
 Spring 2024 Independent Study with Jake Bayon
 
 ---
@@ -8,11 +8,24 @@ Default branch is `main`!
 ---
 ### Week 3 (12 February 2024)
 ### Week 2 (5 February 2024)
-+ Confirm that course code is COMP299  
-`COMP 299` INDEPENDENT STUDY  
++ Dr Olson confirmed that course code is COMP499  
+`COMP 499` INDEPENDENT STUDY  
 Units: 1-3 Repeatability: Yes (Can be repeated for Credit)  
 Individual study including library or laboratory research or program writing. A written report is required. Project proposal must be submitted and approved prior to enrollment. May be repeated for credit.
 + Dr Stern and Dr Olson recommended a poster at the Creative Collaborations Undergraduate Research Conference (CCURC) instead of a written report
++ Introduction to lemmatization
+  - "Humanum genus duobus regitur"
+  - "humanus", "genus", "duo", "rego"
++ Install Python 3.8 and virtual environment  
+`python3.8 -m venv pie`  
+`cd pie`  
+`source ./bin/activate`  
+`pip install --upgrade pip`  
+`pip install nlp-pie`  
+`pip install pie-extended`  
+`pie-extended download lasla`  
+`pie-extended install-addons lasla`  
+`pie-extended tag lasla your_file.txt`  
 + Mike Kestemont: [Documentary: "Hildegard of Bingen: Authorship and Stylometry" \[HD\]](https://vimeo.com/70881172)  
 (Be ready to turn down the volume at 3:12-3:32 and at 8:26-8:46)
 ### Week 1 (29 January 2024)
