@@ -8,11 +8,12 @@ Default branch is `main`!
 ---
 ### Week 3 (12 February 2024)
 ### Week 2 (5 February 2024)
-+ Dr Olson confirmed that course code is COMP499  
++ Dr (Rick) Olson confirmed that course code is COMP499  
 `COMP 499` INDEPENDENT STUDY  
 Units: 1-3 Repeatability: Yes (Can be repeated for Credit)  
 Individual study including library or laboratory research or program writing. A written report is required. Project proposal must be submitted and approved prior to enrollment. May be repeated for credit.
 + Dr Stern and Dr Olson recommended a poster at the Creative Collaborations Undergraduate Research Conference (CCURC) instead of a written report
++ Paul's proposal for the Seventeenth International Congress of Medieval Canon Law (ICMCL XVII) was accepted this week, so we will be working on lemmatization before regular expressions. See [this link](ICMCL.md) for details.
 + Introduction to lemmatization
   - "Humanum genus duobus regitur"
   - "humanus", "genus", "duo", "rego"
@@ -26,6 +27,8 @@ Individual study including library or laboratory research or program writing. A 
 `pie-extended download lasla`  
 `pie-extended install-addons lasla`  
 `pie-extended tag lasla your_file.txt`  
+---
+Before the next meeting, watch:
 + Mike Kestemont: [Documentary: "Hildegard of Bingen: Authorship and Stylometry" \[HD\]](https://vimeo.com/70881172)  
 (Be ready to turn down the volume at 3:12-3:32 and at 8:26-8:46)
 ### Week 1 (29 January 2024)
@@ -54,3 +57,6 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
   - peasants
   - nobility
   - tension between science and religion
+---
+Before the next meeting, watch:
++ Paul Evans: [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
