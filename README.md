@@ -29,7 +29,7 @@ Individual study including library or laboratory research or program writing. A 
 `pie-extended tag lasla your_file.txt`  
 ---
 Before next Monday, watch:
-+ Mike Kestemont: [Documentary: "Hildegard of Bingen: Authorship and Stylometry" \[HD\]](https://vimeo.com/70881172)  
++ Mike Kestemont, [Documentary: "Hildegard of Bingen: Authorship and Stylometry" \[HD\]](https://vimeo.com/70881172)  
 (Be ready to turn down the volume at 3:12-3:32 and at 8:26-8:46)
 ### Week 1 (29 January 2024)
 + Remember to bring HDMI adapter to every class meeting!
@@ -48,7 +48,6 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
   `git clone git@github.com:jakebayon12/Gratian.git` or  
   `git clone https://github.com/jakebayon12/Gratian.git`  
   + ~~Share repository with `decretist`~~ (Paul's GitHub username. In the Middle Ages, a *decretist* was someone who studied Gratian's *Decretum*.)
-+ Paul Evans: [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
 + What do you think of when you think of the Middle Ages?
 + Introductory activity: What do you know, or think you know, about the Middle Ages? Any source, e.g., other courses, fiction or non-fiction books, TV ("Game of Thrones"), movies ("Secret of Kells”), or video games is OK!
   - feudalism
@@ -58,5 +57,7 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
   - nobility
   - tension between science and religion
 ---
-Before next Monday, watch:
-+ Paul Evans: [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
+Before next Monday, read
++ Anders Winroth, [Gratian and His Book](Readings/Winroth - Gratian and His Book.pdf)  
+and watch
++ Paul Evans, [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
