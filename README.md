@@ -58,6 +58,30 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
   - tension between science and religion
 ---
 Before next Monday, read
-+ Anders Winroth, [Gratian and His Book](Readings/Winroth%20-%20Gratian%20and%20His%20Book.pdf)  
-and watch
++ Anders Winroth, [Gratian and His Book](Readings/Winroth%20-%20Gratian%20and%20His%20Book.pdf) and watch
 + Paul Evans, [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
+### Week 0 (1 December 2023)
+#### Syllabus
++ Introduction:
+  - The scholarly problem: multiple recensions of Gratian's Decretum
++ Materials:
+  - OCP-format e-text of the 1879 Friedberg edition of Gratian's Decretum
+  - Decretum Gratiani, First recension, edition in progress (Anders Winroth)
+  - Anders Winroth, The Making of Gratian's Decretum, Appendix: The contents of the first recension of Gratian's Decretum
++ Tools:
+  - VS Code and XML Tools extension
+  - Git and GitHub
++ Python Techniques:
+  - Lemmatizing natural language text (Medieval Latin)
+  - Using regular expressions
+  - Recursive-descent parsing
+  - Generating TEI P5 XML
++ Deliverables:
+  - Parse OCP e-text of Friedberg edition
+  - Use regular expressions to transform vulgate readings (Friedberg edition) into first recension readings (Winroth appendix)
+  - Output result as TEI P5 XML e-text of the first-recension
+  - Lemmatize vulgate (Friedberg) and first-recension (Winroth) texts
+  - Isolate lemmas that appear in the vulgate (Friedberg) but not in the first-recension text of Gratian's Decretum
+---
+Before the end of January, read
++ Peter Landau, [Gratian and the *Decretum Gratiani*](Readings/Landau%20-%20Gratian%20and%20the%20Decretum%20Gratiani.pdf)
