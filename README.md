@@ -58,6 +58,6 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
   - tension between science and religion
 ---
 Before next Monday, read
-+ Anders Winroth, [Gratian and His Book](Readings/Winroth - Gratian and His Book.pdf)  
++ Anders Winroth, [Gratian and His Book](Readings/Winroth%20-%20Gratian%20and%20His%20Book.pdf)  
 and watch
 + Paul Evans, [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
