@@ -1,3 +1,5 @@
+# Teaching Gratian
+
 ## COMP499
 Spring 2024 Independent Study with Jake Bayon
 
@@ -12,7 +14,7 @@ Default branch is `main`!
 `COMP 499` INDEPENDENT STUDY  
 Units: 1-3 Repeatability: Yes (Can be repeated for Credit)  
 Individual study including library or laboratory research or program writing. A written report is required. Project proposal must be submitted and approved prior to enrollment. May be repeated for credit.
-+ Dr Stern and Dr Olson recommended a poster at the Creative Collaborations Undergraduate Research Conference (CCURC) instead of a written report
++ Dr Stern and Dr Olson recommended a poster at the [Creative Collaborations](https://www.sandiego.edu/ugresearch/students/creative-collaborations.php) Undergraduate Research Conference (CCURC) instead of a written report
 + Paul's proposal for the Seventeenth International Congress of Medieval Canon Law (ICMCL XVII) was accepted, so we will be working on lemmatization before regular expressions. See [this link](ICMCL.md) for the call for papers and proposal.
 + Introduction to lemmatization
   - "Humanum genus duobus regitur"
@@ -83,5 +85,5 @@ Before next Monday, read
   - Lemmatize vulgate (Friedberg) and first-recension (Winroth) texts
   - Isolate lemmas that appear in the vulgate (Friedberg) but not in the first-recension text of Gratian's Decretum
 ---
-Before the end of January, read
+Before the start of the semester, read
 + Peter Landau, [Gratian and the *Decretum Gratiani*](Readings/Landau%20-%20Gratian%20and%20the%20Decretum%20Gratiani.pdf)
