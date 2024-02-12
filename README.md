@@ -9,6 +9,7 @@ Default branch is `main`!
 
 ---
 ### Week 3 (12 February 2024)
++ demo for Jake
 ### Week 2 (5 February 2024)
 + Dr (Rick) Olson confirmed that course code is COMP499  
 `COMP 499` INDEPENDENT STUDY  
