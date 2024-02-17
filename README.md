@@ -8,8 +8,27 @@ Spring 2024 Independent Study with Jake Bayon
 Default branch is `main`!
 
 ---
+
+### Checklist
+- [ ] Jake: sign up for poster design workshop  
+- [ ] Paul: coordiate with Lindy to get monitor in DH Studio working again  
+
+---
+### Week 4 (19 February 2024)
+
 ### Week 3 (12 February 2024)
 + demo for Jake
+---
+Before next Monday:
++ Clone PIE and try to get it to work in a Python 3.12 virtual environment
++ Start writing the narrative sections for your Creative Collaborations poster by answering the following questions:
+  - Who was Gratian?
+  - What is the *Decretum* and why is it important?
+  - What is lemmatization and what can it tell us about the *Decretum*?
++ Keep track of your progess in a Markdown-format file
+  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+  - 
+
 ### Week 2 (5 February 2024)
 + Dr (Rick) Olson confirmed that course code is COMP499  
 `COMP 499` INDEPENDENT STUDY  
