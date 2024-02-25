@@ -3,6 +3,7 @@
 - [x] Stan Chodorow (UCSD) - revisit January conversation about CUA Press dissertation book proposal: monograph or book?
 - [x] Enrique Manjavacas - current status of Pie and Pie Extended
 - [x] Jim Krooskos (UCSD) - advice for dealing with out of date Python packages
+- [x] Maura Gile Watson (USD) - revision of authorship chapter
 
 ---
 
