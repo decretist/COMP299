@@ -1,6 +1,4 @@
-- [ ] Stan Chodorow (UCSD)
-  - restart January conversation about CUA Press dissertation book proposal
-  - monograph or book?
+[x] Stan Chodorow (UCSD) - January conversation about CUA Press dissertation book proposal: monograph or book?
 ---
 - [ ] Jim Krooskos (UCSD) re: how to fix out of date Python package
 - [ ] Mike Kestemont (Antwerp) re:
