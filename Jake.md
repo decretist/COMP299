@@ -46,13 +46,20 @@ https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/
 
 # 26 February 2024
 
+## to-do
+
++ revise poster narrative section
+
++ read intro to regular expressions (see bookmarked article)
+
++ try to figure out what ".*?" means (in regular expression) (appears in decretist/Gratian -> sample -> auto -> dicta.py)
+
 ## notes on second recension (library copy)
 
 + third section "doesn't have to do w/ gratian"
 + some popes falsely quoted (inaccurate/forged?)
 
 + harp-like symbol used to signify gratian
-
 
 
 
