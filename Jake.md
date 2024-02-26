@@ -24,6 +24,7 @@ if __name__ == "__main__":
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## in virtual environment, installed:
+
 + tqdm
 + torch
 + pyyaml
@@ -34,12 +35,26 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 `AttributeError: module 'test.data.test_data' has no attribute 'Testing'`
 
 ## misc.
+
 + command + shift + v to see preview of markdown
 
 ## to-do
+
 + write text for creative collaborations poster (answer main questions)
 https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/edit
 + send update on friday
+
+# 26 February 2024
+
+## notes on second recension (library copy)
+
++ third section "doesn't have to do w/ gratian"
++ some popes falsely quoted (inaccurate/forged?)
+
++ harp-like symbol used to signify gratian
+
+
+
 
 
 
