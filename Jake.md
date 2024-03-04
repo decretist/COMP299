@@ -66,6 +66,8 @@ https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/
 ## to-do
 
 + run lemmatize.py
++ make sure doing this in python 3.8 virtual environment
+
 + will end up w/ 4 files in corpora -> final_lemmas
 + Gratian0, Gratian1, Gratian2, dePen: these are lemmatized versions of the text
 
