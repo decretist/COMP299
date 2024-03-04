@@ -13,9 +13,11 @@ def main():
 
     result = re.match(".", text)
     #print(result[0])
+    # results in "H"
 
     result = re.match(".*", text)
     #print(result[0])
+    # results in entire sentence
 
     result = re.match(".?", text)
     #print(result)
@@ -25,7 +27,7 @@ def main():
 
     # how to access/print a subsection
     result = re.match("Humanum genus.* nolit fieri\.", text)
-    print(result[0])
+    #print(result[0])
 
 if __name__ == "__main__":
     main()
