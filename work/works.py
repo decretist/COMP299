@@ -6,7 +6,7 @@ from pie_extended.models.lasla import tokenizer
 from pie_extended.models.lasla.imports import get_iterator_and_processor
 results = []
 x = tokenizer.LatMemorizingTokenizer()
-text = open('corpora/final/Gratian1.txt', 'r').read()
+text = open('corpora/final/Gratian0.txt', 'r').read()
 sentences = x._real_sentence_tokenizer(text)
 model_name = 'lasla'
 tagger = get_tagger(model_name, batch_size=256, device='cpu', model_path=None)
@@ -21,6 +21,6 @@ for sentence in sentences:
         if tagged[i]['pos'] != 'PUNC':
         # if tagged[i]['morph'] != 'MORPH=empty':
             results.append(tagged[i]['lemma'])
-f = open('corpora/final_lemmas/Gratian1.txt', 'w')
+f = open('corpora/final_lemmas/Gratian0.txt', 'w')
 f.write(' '.join(results) + '\n')
 f.close()

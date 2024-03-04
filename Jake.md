@@ -61,7 +61,13 @@ https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/
 
 + harp-like symbol used to signify gratian
 
+# 4 March 2024
 
+## to-do
 
++ run lemmatize.py
++ will end up w/ 4 files in corpora -> final_lemmas
++ Gratian0, Gratian1, Gratian2, dePen: these are lemmatized versions of the text
 
-
++ list comprehensions (gives list of every word that's in one list + not other)
++ goal: create list of lemmas that are in Gratian2 and NOT in Gratian1
