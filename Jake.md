@@ -69,7 +69,9 @@ https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/
 + make sure doing this in python 3.8 virtual environment
 
 + will end up w/ 4 files in corpora -> final_lemmas
-+ Gratian0, Gratian1, Gratian2, dePen: these are lemmatized versions of the text
++ Gratian0, Gratian1, Gratian2, dePen: these are lemmatized versions of the text (in final_lemmas folder)
+
++ (see list comprehensions examples from last meeting)
 
 + list comprehensions (gives list of every word that's in one list + not other)
 + goal: create list of lemmas that are in Gratian2 and NOT in Gratian1
