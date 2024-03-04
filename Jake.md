@@ -65,6 +65,8 @@ https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/
 
 ## to-do
 
++ put poster text in Jake.md (here)
+
 + run lemmatize.py
 + make sure doing this in python 3.8 virtual environment
 
