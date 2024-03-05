@@ -1,6 +1,8 @@
 # Teaching Gratian ...
 ![Gratian and his students](img/St-Omer.jpg)
-... and Gratian teaching. (From Saint-Omer, Bibliothèque Municipale 453 manuscript of Gratian's Decretum)
+
+... and Gratian teaching.  
+(From Saint-Omer, Bibliothèque Municipale 453 manuscript of Gratian's Decretum)
 ## COMP499
 Spring 2024 Computer Science Independent Study with Jake Bayon
 
@@ -12,20 +14,27 @@ Default branch is `main`!
 
 ### Checklist
 - [ ] Jake: sign up for poster design workshop  
-- [ ] Paul: coordiate with Lindy to get monitor in DH Studio working again  
+- [ ] Paul: coordinate with Lindy to get monitor in DH Studio working again  
 
 ---
 
 <details>
-<summary>Week 6 (4 March 2024)</summary>
+<summary>Week 6</summary>
+
+### 4 March 2024
 </details>
 
 <details>
-<summary>Week 5 (26 February 2024)</summary>
+
+<summary>Week 5</summary>
+
+### 26 February 2024
 </details>
 
 <details>
-<summary>Week 4 (19 February 2024)</summary>
+<summary>Week 4</summary>
+
+### 19 February 2024
 </details>
 
 <details>
@@ -46,12 +55,9 @@ Before next Monday:
 </details>
 
 <details>
-<summary>
-Week 4 (19 February 2024)
-</summary>
-</details>
+<summary>Week 2</summary>
 
-### Week 2 (5 February 2024)
+### 5 February 2024
 + Dr (Rick) Olson confirmed that course code is COMP499  
 `COMP 499` INDEPENDENT STUDY  
 Units: 1-3 Repeatability: Yes (Can be repeated for Credit)  
@@ -75,6 +81,8 @@ Individual study including library or laboratory research or program writing. A 
 Before next Monday, watch:
 + Mike Kestemont, [Documentary: "Hildegard of Bingen: Authorship and Stylometry" \[HD\]](https://vimeo.com/70881172)  
 (Be ready to turn down the volume at 3:12-3:32 and at 8:26-8:46)
+</details>
+
 ### Week 1 (29 January 2024)
 + Remember to bring HDMI adapter to every class meeting!
 + Install [Visual Studio Code](https://code.visualstudio.com/) or upgrade to the current version (1.86.0)
