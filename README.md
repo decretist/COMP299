@@ -30,6 +30,7 @@ Default branch is `main`!
 
 <details>
 <summary>Week 3</summary>
+
 ### 12 February 2024
 + demo for Jake
 ---
