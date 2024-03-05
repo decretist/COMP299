@@ -83,7 +83,10 @@ Before next Monday, watch:
 (Be ready to turn down the volume at 3:12-3:32 and at 8:26-8:46)
 </details>
 
-### Week 1 (29 January 2024)
+<details>
+<summary>Week 1</summary>
+
+### 29 January 2024
 + Remember to bring HDMI adapter to every class meeting!
 + Install [Visual Studio Code](https://code.visualstudio.com/) or upgrade to the current version (1.86.0)
   - **Make sure that VSCode is *not* installed in the Downloads folder!**
@@ -112,7 +115,12 @@ If you installed VSCode in the system Applications folder, you *may* have to ent
 Before next Monday, read
 + Anders Winroth, [Gratian and His Book](Readings/Winroth%20-%20Gratian%20and%20His%20Book.pdf) and watch
 + Paul Evans, [The Medieval University & the Question of Education: Gratian's *Decretum* & the Dawn of the University](https://www.youtube.com/watch?v=x2KbkcjMLDM)
-### Week 0 (1 December 2023)
+</details>
+
+<details>
+<summary>Week 0</summary>
+
+### 1 December 2023
 #### Syllabus
 + Introduction:
   - The scholarly problem: multiple recensions of Gratian's Decretum
@@ -137,3 +145,4 @@ Before next Monday, read
 ---
 Before the start of the semester, read
 + Peter Landau, [Gratian and the *Decretum Gratiani*](Readings/Landau%20-%20Gratian%20and%20the%20Decretum%20Gratiani.pdf)
+</details>
