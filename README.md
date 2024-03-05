@@ -15,14 +15,19 @@ Default branch is `main`!
 - [ ] Paul: coordiate with Lindy to get monitor in DH Studio working again  
 
 ---
+
 <details>
-<summary>Week 6 (4 March 2024)</summary>
+<summary>### Week 6 (4 March 2024)</summary>
 </details>
+
 ---
+
 <details>
-<summary>Week 5 (26 February 2024)</summary>
+<summary>### Week 5 (26 February 2024)</summary>
 </details>
+
 ---
+
 ### Week 4 (19 February 2024)
 
 ### Week 3 (12 February 2024)
