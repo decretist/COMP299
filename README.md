@@ -1,28 +1,32 @@
-# Teaching Gratian ...
+# Teaching Gratian
 ![Gratian and his students](img/St-Omer.jpg)
 
-... and Gratian teaching.  
-(From Saint-Omer, Bibliothèque Municipale 453 manuscript of Gratian's Decretum)
+Gratian teaching, from Saint-Omer Bibliothèque Municipale 453 manuscript of Gratian's *Decretum*
 ## COMP499
 Spring 2024 Computer Science Independent Study with Jake Bayon
 
 ---
-
-Default branch is `main`!
-
----
-
 ### Checklist
 - [ ] Jake: sign up for poster design workshop  
-- [ ] Paul: coordinate with Lindy to get monitor in DH Studio working again  
 
 ---
-
-<details>
-<summary>Week 6</summary>
-
 ### 4 March 2024
-</details>
+Problem solved: you can install the nlp-pie and pie-extended packages in a Python 3.8 (or 3.7) virtual environment, but you have to install them together.
+```
+python3.8 -m venv venv
+source ./venv/bin/activate
+pip install --upgrade pip
+pip install nlp-pie pie-extended
+pie-extended download lasla
+pie-extended install-addons lasla
+pie-extended tag lasla your_file.txt
+```
+---
+Before Friday:
++ incorporate revised version of Creative Collaborations slide submission text into [Jake.md](Jake.md).
++ run [work/lemmatize.py](work/lemmatize.py). Make sure to use the Python 3.8 virtual environment with nlp-pie and pie-extended installed!
++ lemmatize.py writes four output files in the work/corpora/final_lemmas folder: Gratian0.txt, Gratian1.txt, Gratian2.txt, and dePen.txt. These are lemmatized versions of the text of the case statements or *themata* (Gratian0.txt), the first-recension *dicta* or sayings of Gratian (Gratian1.txt), the second-recension *dicta* (Gratian2.txt), and the *dicta* from *de Penitentia* (dePen.txt).
++ your deliverable is to generate a list of lemmas that are in Gratian2.txt and are not in Gratian1.txt using a Python list comprehension (see example in Jake.md under 12 February 2024).
 
 <details>
 
@@ -45,7 +49,7 @@ Default branch is `main`!
 ---
 Before next Monday:
 + Clone PIE and try to get it to work in a Python 3.12 virtual environment
-+ Start writing the narrative sections for your Creative Collaborations poster by answering the following questions:
++ Start writing the narrative sections for your Creative Collaborations presentation by answering the following questions:
   - Who was Gratian?
   - What is the *Decretum* and why is it important?
   - What is lemmatization and what can it tell us about the *Decretum*?
@@ -62,7 +66,7 @@ Before next Monday:
 `COMP 499` INDEPENDENT STUDY  
 Units: 1-3 Repeatability: Yes (Can be repeated for Credit)  
 Individual study including library or laboratory research or program writing. A written report is required. Project proposal must be submitted and approved prior to enrollment. May be repeated for credit.
-+ Dr Stern and Dr Olson recommended a poster at the [Creative Collaborations](https://www.sandiego.edu/ugresearch/students/creative-collaborations.php) Undergraduate Research Conference (CCURC) instead of a written report
++ Dr Stern and Dr Olson recommended a presentation at the [Creative Collaborations](https://www.sandiego.edu/ugresearch/students/creative-collaborations.php) Undergraduate Research Conference (CCURC) instead of a written report
 + Paul's proposal for the Seventeenth International Congress of Medieval Canon Law (ICMCL XVII) was accepted, so we will be working on lemmatization before regular expressions. See [this link](ICMCL.md) for the call for papers and proposal.
 + Introduction to lemmatization
   - "Humanum genus duobus regitur"
