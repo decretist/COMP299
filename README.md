@@ -48,7 +48,7 @@ Before Friday:
 + demo for Jake
 ---
 Before next Monday:
-+ Clone PIE and try to get it to work in a Python 3.12 virtual environment
++ Clone PIE from GitHub (`https://github.com/emanjavacas/pie.git`) and try to get it to work in a Python 3.12 virtual environment
 + Start writing the narrative sections for your Creative Collaborations presentation by answering the following questions:
   - Who was Gratian?
   - What is the *Decretum* and why is it important?
