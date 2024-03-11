@@ -7,7 +7,7 @@ Spring 2024 Computer Science Independent Study with Jake Bayon
 
 ---
 ### Checklist
-- [ ] Jake: sign up for and attend [Creative Collaborations presentation workshop](https://www.sandiego.edu/events/detail.php?_focus=91693) (Thursday, 7 March 2024)
+- [x] Jake: sign up for and attend [Creative Collaborations presentation workshop](https://www.sandiego.edu/events/detail.php?_focus=91693) (Thursday, 7 March 2024)
 
 ---
 ### 4 March 2024
