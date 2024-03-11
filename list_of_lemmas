@@ -1,19 +1,21 @@
 
-
-
-
-
-
 # open Gratian1.txt (for reading)
 with open("work/corpora/final_lemmas/Gratian1.txt", "r") as file_1:
 
     # read line
-    first_line = file_1.readline()
+    first_line_gratian_1 = file_1.readline()
 
     # split line at every whitespace
-    lemmatized_gratian_1 = first_line.split()
+    lemmatized_gratian_1 = first_line_gratian_1.split()
 
-    print(lemmatized_gratian_1)
+# open Gratian2.txt (for reading)
+with open("work/corpora/final_lemmas/Gratian2.txt", "r") as file_2:
+
+    # read line
+    first_line_gratian_2 = file_2.readline()
+
+    # split line at every whitespace
+    lemmatized_gratian_2 = first_line_gratian_2.split()
 
 
 
