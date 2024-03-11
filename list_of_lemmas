@@ -8,10 +8,9 @@
 with open("work/corpora/final_lemmas/Gratian1.txt", "r") as file_1:
 
     # read line
-    first_line = file_1.readline().strip()
+    first_line = file_1.readline()
 
-    # print line
-    print(first_line)
+# open 
 
 
 
