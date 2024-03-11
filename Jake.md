@@ -77,3 +77,18 @@ https://docs.google.com/document/d/1aLTDgrbmGOcx2GIiBQpFKyux1MPevUX4_6qoxyoQkRU/
 
 + list comprehensions (gives list of every word that's in one list + not other)
 + goal: create list of lemmas that are in Gratian2 and NOT in Gratian1
+
+# 11 March 2024
+
+## narrative section for (hypothetical) poster
+
+A Computational Analysis of Gratian’s Decretum (c. 1140)
+
+In the expanse of medieval history, amidst the crisis of the church and state, stands a figure often overlooked: Gratian. A posthumous luminary of 12th century Europe, he was a magister of law, a weaver of harmony in the discordant fabric of the Christian church’s canonical regulations. His work synthesized the canons of councils, papal decretals, and biblical texts established across a millennium, and he shared his methodologies as the first to teach canon law as an academic subject. 
+
+Gratian’s magnum opus, Concordia Discordantium Canonum (The Harmony of Discordant Canons), assembled circa 1140 and later referred to as the Decretum, was more than a compilation of legal doctrines; it was a symphony of jurisprudence, bringing order to the cacophony of contradictory laws that had accumulated over centuries. Gratian's work not only laid the foundation for the study and practice of canon law but also served as a beacon of intellectual rigor and order in an era that sought to unearth and systematize knowledge of the past. 
+
+The Decretum, often hailed as the first university textbook, was not merely a relic of the past but a document that continues to shape modern society. A model for all Western law, its biblical approach to the legal field continues to impact the way many live their lives. Many principles of contemporary Catholic ecclesiastical law can be traced back to Gratian's seminal work, underscoring its enduring relevance.
+However, the journey of the Decretum does not end with its initial composition. The discovery of the text’s first recension—an earlier edition that is approximately half of the size of its more widely known counterpart—has opened new avenues of inquiry, inviting scholars to delve deeper into its structural evolution. In this vein, our research project employs computational analysis, leveraging techniques such as lemmatization to discern the nuances between different stages of the text's development between its first and second recensions.
+
+Lemmatization, a cornerstone of computational linguistics and natural language processing, offers an approach through which we can unravel the intricacies of Gratian's book. This technique involves breaking a word down to its root meaning, or lemma. For instance, the verb regitur (ruled) can be reduced to its infinitive regere (to rule). By mapping each Latin word to its root form, we aim to uncover the subtle shifts in language and doctrine that distinguish the Decretum's various recensions. Through this synergy of historical inquiry and technological innovation, we endeavor to illuminate a clearer understanding of Gratian's legacy—a story that continues to resonate in the hearts and minds of scholars and believers alike.
