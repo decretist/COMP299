@@ -19,25 +19,3 @@ with open("work/corpora/final_lemmas/Gratian2.txt", "r") as file_2:
 
 # identify lemmas in Gratian2 but not in Gratian1
 print([word for word in lemmatized_gratian_2 if word not in lemmatized_gratian_1])
-
-
-
-
-
-
-# list comprehensions 
-"""
-def main():
-    print("hello world")
-
-    list_1 = ["gratian", "monk", "hildegard"]
-    list_2 = ["canon", "gratian", "monk"]
-
-    # list comprehensions
-    print([word for word in list_1 if word not in list_2])
-
-if __name__ == "__main__":
-    main()    
-"""
-
-
