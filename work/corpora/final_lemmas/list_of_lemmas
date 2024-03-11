@@ -5,7 +5,7 @@
 
 
 # open Gratian1.txt (for reading)
-with open("Gratian1.txt", "r") as file_1:
+with open("/work/corpora/final_lemmas/Gratian1.txt", "r") as file_1:
 
     # read line
     first_line = file_1.readline().strip()
