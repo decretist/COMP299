@@ -10,7 +10,11 @@ with open("work/corpora/final_lemmas/Gratian1.txt", "r") as file_1:
     # read line
     first_line = file_1.readline()
 
-# open 
+    # split line at every whitespace
+    lemmatized_gratian_1 = first_line.split()
+
+    print(lemmatized_gratian_1)
+
 
 
 
