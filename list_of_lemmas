@@ -17,13 +17,15 @@ with open("work/corpora/final_lemmas/Gratian2.txt", "r") as file_2:
     # split line at every whitespace
     lemmatized_gratian_2 = first_line_gratian_2.split()
 
+# identify lemmas in Gratian2 but not in Gratian1
+print([word for word in lemmatized_gratian_2 if word not in lemmatized_gratian_1])
 
 
 
 
 
 
-
+# list comprehensions 
 """
 def main():
     print("hello world")
@@ -37,4 +39,5 @@ def main():
 if __name__ == "__main__":
     main()    
 """
+
 
