@@ -23,9 +23,9 @@ pie-extended tag lasla your_file.txt
 ```
 ---
 Before Friday:
-+ incorporate revised version of Creative Collaborations slide submission text into [Jake.md](Jake.md).
-+ run [lemmatize.py](work/lemmatize.py). Make sure to use the Python 3.8 virtual environment with nlp-pie and pie-extended installed!
-+ lemmatize.py writes four output files in the [`work/corpora/final_lemmas`](work/corpora/final_lemmas/) folder: Gratian0.txt, Gratian1.txt, Gratian2.txt, and dePen.txt. These are lemmatized versions of the text of the case statements or *themata* (Gratian0.txt), the first-recension *dicta* or sayings of Gratian (Gratian1.txt), the second-recension *dicta* (Gratian2.txt), and the *dicta* from *de Penitentia* (dePen.txt).
+- [x] incorporate revised version of Creative Collaborations slide submission text into [Jake.md](Jake.md).
+- [x] run [lemmatize.py](work/lemmatize.py). Make sure to use the Python 3.8 virtual environment with nlp-pie and pie-extended installed!
+- [x] lemmatize.py writes four output files in the [`work/corpora/final_lemmas`](work/corpora/final_lemmas/) folder: Gratian0.txt, Gratian1.txt, Gratian2.txt, and dePen.txt. These are lemmatized versions of the text of the case statements or *themata* (Gratian0.txt), the first-recension *dicta* or sayings of Gratian (Gratian1.txt), the second-recension *dicta* (Gratian2.txt), and the *dicta* from *de Penitentia* (dePen.txt).
 + your deliverable is to generate a list of lemmas that are in Gratian2.txt and are not in Gratian1.txt using a Python list comprehension (see example in Jake.md under 12 February 2024).
 
 <details>
