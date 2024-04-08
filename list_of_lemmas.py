@@ -18,4 +18,22 @@ with open("work/corpora/final_lemmas/Gratian2.txt", "r") as file_2:
     lemmatized_gratian_2 = first_line_gratian_2.split()
 
 # identify lemmas in Gratian2 but not in Gratian1
-print([word for word in lemmatized_gratian_2 if word not in lemmatized_gratian_1])
+list_of_lemmas = [word for word in lemmatized_gratian_2 if word not in lemmatized_gratian_1]
+
+print(len(list_of_lemmas))
+
+# convert to set 
+list_of_unique_lemmas = list(set(list_of_lemmas))
+
+print(len(list_of_unique_lemmas))
+
+# sort alphabetically
+list_of_unique_lemmas.sort()
+
+#print(list_of_unique_lemmas)
+
+for lemma in list_of_unique_lemmas:
+
+    print(lemma)
+
+
