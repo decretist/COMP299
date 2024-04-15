@@ -92,3 +92,11 @@ The Decretum, often hailed as the first university textbook, was not merely a re
 However, the journey of the Decretum does not end with its initial composition. The discovery of the text’s first recension—an earlier edition that is approximately half of the size of its more widely known counterpart—has opened new avenues of inquiry, inviting scholars to delve deeper into its structural evolution. In this vein, our research project employs computational analysis, leveraging techniques such as lemmatization to discern the nuances between different stages of the text's development between its first and second recensions.
 
 Lemmatization, a cornerstone of computational linguistics and natural language processing, offers an approach through which we can unravel the intricacies of Gratian's book. This technique involves breaking a word down to its root meaning, or lemma. For instance, the verb regitur (ruled) can be reduced to its infinitive regere (to rule). By mapping each Latin word to its root form, we aim to uncover the subtle shifts in language and doctrine that distinguish the Decretum's various recensions. Through this synergy of historical inquiry and technological innovation, we endeavor to illuminate a clearer understanding of Gratian's legacy—a story that continues to resonate in the hearts and minds of scholars and believers alike.
+
+# 14 April 2024
+
+## link to slideshow (for creative collabs presentation)
+https://docs.google.com/presentation/d/1icXSh_cevUxDThI0pZc3ZkVV5VFejmJz5FeX51RRAgU/edit#slide=id.g26823933375_0_0
+
+## link to speaker notes (for creative collabs presentation)
+https://docs.google.com/document/d/1cbic1TGM4Ecxnd-WCtYMX9-r4iDk6P53wCUxITb6Q4c/edit
