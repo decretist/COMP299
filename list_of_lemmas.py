@@ -1,3 +1,4 @@
+# Jake | March 2024
 
 # open Gratian1.txt (for reading)
 with open("work/corpora/final_lemmas/Gratian1.txt", "r") as file_1:
@@ -35,5 +36,3 @@ list_of_unique_lemmas.sort()
 for lemma in list_of_unique_lemmas:
 
     print(lemma)
-
-
