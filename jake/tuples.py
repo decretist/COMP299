@@ -56,22 +56,19 @@ with open("work/corpora/final/Gratian2.txt", "r") as g2_original_words_file:
 # initialize list to store tuples in
 list_of_tuples = []
 
-# initialize counter (to track index)
-index = 0
-
+# find original word (by checking if first 3 characters match) <- is this inaccurate?
 for lemma in list_of_lemmas:
 
-    # find original word (by checking if first 3 characters match) <- is this inaccurate?
     for original_word in unique_split_line:
 
         if (lemma[:3]) == (original_word[:3]):
             og_word = original_word
 
+            # determine index
+            index = unique_split_line.index(og_word)
+
     # create tuple to store index, original word, lemmatized word
     new_tuple = (index, og_word, lemma)
-
-    # increment index
-    index += 1
 
     # append tuple to list
     list_of_tuples.append(new_tuple)
