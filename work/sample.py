@@ -3,6 +3,7 @@
 # 6 May 2024
 #
 
+# (a placeholder for "results" in works_2.py)
 items = [
     (0, 'natura', 'natura'),
     (1, 'naturae', 'natura'),
@@ -13,11 +14,17 @@ items = [
 
 unique_dictionary = {}
 
+# items = list of tuples (output of previous process; works_2.py)
+# transform into dictionary
 for item in items:
+
+    # isolate lemma
     key = item[2]
-    print(key)
+
+    # values within dicitonary = tuple w/ 2 lists
     if key not in unique_dictionary:
-        unique_dictionary[key] = ([item[0]], [item[2]])
+        unique_dictionary[key] = ([item[0]], [item[1]])
+
     elif key in unique_dictionary:
         value = unique_dictionary[key]
         value[0].append(item[0])
