@@ -100,3 +100,8 @@ https://docs.google.com/presentation/d/1icXSh_cevUxDThI0pZc3ZkVV5VFejmJz5FeX51RR
 
 ## link to speaker notes (for creative collabs presentation)
 https://docs.google.com/document/d/1cbic1TGM4Ecxnd-WCtYMX9-r4iDk6P53wCUxITb6Q4c/edit
+
+# 9 May 2024
+
+## link to google drive folder with notes on readings, meetings,and creative collabs presentation
+https://drive.google.com/drive/folders/1L1qdXKyiqOCB3-oRj2dDKcl1NsHPt0yL?usp=sharing
